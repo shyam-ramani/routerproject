@@ -16,9 +16,7 @@ export default function About() {
                           React development is carried out by passionate developers
                       </h2>
                       <p className="mt-6 text-gray-600">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                          accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                          aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod quos sed sint doloremque possimus soluta illo autem sunt corrupti totam aliquam mollitia deleniti hic ex, repudiandae rem quasi et, unde modi, expedita ab voluptate fuga itaque inventore? Necessitatibus exercitationem soluta commodi, doloribus dolor itaque ipsum.
                       </p>
                       <p className="mt-4 text-gray-600">
                           Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
